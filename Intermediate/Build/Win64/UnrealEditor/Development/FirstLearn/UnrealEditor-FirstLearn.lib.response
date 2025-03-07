@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FirstLearn.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\LENOVO\Documents\Unreal Projects\FirstLearn\Intermediate\Build\Win64\FirstLearnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\LENOVO\Documents\Unreal Projects\FirstLearn\Intermediate\Build\Win64\UnrealEditor\Development\FirstLearn\FirstLearn.cpp.obj"
+"C:\Users\LENOVO\Documents\Unreal Projects\FirstLearn\Intermediate\Build\Win64\UnrealEditor\Development\FirstLearn\FirstLearnGameModeBase.cpp.obj"
+"C:\Users\LENOVO\Documents\Unreal Projects\FirstLearn\Intermediate\Build\Win64\UnrealEditor\Development\FirstLearn\FirstLearn.init.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\Unreal Projects\FirstLearn\Intermediate\Build\Win64\UnrealEditor\Development\FirstLearn\FirstLearnGameModeBase.gen.cpp.obj"
+"C:\Users\LENOVO\Documents\Unreal Projects\FirstLearn\Intermediate\Build\Win64\UnrealEditor\Development\FirstLearn\Default.rc2.res"
+/OUT:"C:\Users\LENOVO\Documents\Unreal Projects\FirstLearn\Intermediate\Build\Win64\UnrealEditor\Development\FirstLearn\UnrealEditor-FirstLearn.lib"

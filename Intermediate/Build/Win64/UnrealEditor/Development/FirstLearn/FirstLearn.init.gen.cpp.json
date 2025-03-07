@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\documents\\unreal projects\\firstlearn\\intermediate\\build\\win64\\unrealeditor\\inc\\firstlearn\\firstlearn.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lenovo\\documents\\unreal projects\\firstlearn\\intermediate\\build\\win64\\firstlearneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\lenovo\\documents\\unreal projects\\firstlearn\\intermediate\\build\\win64\\unrealeditor\\development\\firstlearn\\definitions.firstlearn.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

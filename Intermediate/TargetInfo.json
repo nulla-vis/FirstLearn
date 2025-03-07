@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstLearn",
+			"Path": "C:\\Users\\LENOVO\\Documents\\Unreal Projects\\FirstLearn\\Source\\FirstLearn.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstLearnEditor",
+			"Path": "C:\\Users\\LENOVO\\Documents\\Unreal Projects\\FirstLearn\\Source\\FirstLearnEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
